@@ -1,2 +1,2 @@
 # KennyKZH
-(>´o´)> Kenny KZH &lt;(´o´&lt;)
+(>´o´)> KennyKZH &lt;(´o´&lt;)

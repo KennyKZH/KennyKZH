@@ -1,9 +1,9 @@
 ### (>'o')> Buenas! <('o'<)
 
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana (ITT).
-- 😄 Cometo muchos errores pero cada error es un detale muy grande que debo aprender.
+- 😄 Cometo muchos errores pero cada error es un detalle muy grande que debo aprender.
 - 😔 Me estreso mucho y soy anemico.
-- 🤔 
+- 🤔 Para amantes de Genshin soy Ballena.
 - 😉 Soy amigable y la verdad no se mucho de que hablar, pero sin pena pueden preguntarme cualquier cosa.
 - 💬 Con mucho gusto contesto mensajes para cualquier duda.
 - ⚡ Algo fuerte de mi es que apoyo/ayudo a mis compañeros sin que me lo pidan o sabiendo que lo necesitan.

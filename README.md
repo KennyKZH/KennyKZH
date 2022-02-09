@@ -1,12 +1,21 @@
 Esta en proceso aun 9/Feb/2022
 
+### (>'o')> Pio <('o'<)
+
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana (ITT).
 - 😄 Cometo muchos errores pero cada error es un detale muy grande que debo aprender.
 - 😔 Me estreso mucho y soy anemico.
-- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo 
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
+- 🤔 
+- 😉 Soy amigable y la verdad no se mucho de que hablar, pero sin pena pueden preguntarme cualquier cosa.
+- 💬 Con mucho gusto contesto mensajes para cualquier duda.
 - ⚡ Algo fuerte de mi es que apoyo/ayudo a mis compañeros sin que me lo pidan o sabiendo que lo necesitan.
 
-Mi horario todo feo </3
+                                                       Mi horario de este semestre
+| Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
+|-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| 8:00  | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          |
+| 14:00 | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          |
+| 15:00 | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    |
+| 16:00 | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II |
+| 17:00 | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento |
+| 18:00 | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           |

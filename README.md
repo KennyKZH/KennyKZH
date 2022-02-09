@@ -1,6 +1,4 @@
-Esta en proceso aun 9/Feb/2022
-
-### (>'o')> Pio <('o'<)
+### (>'o')> Buenas! <('o'<)
 
 - 🔭 Soy estudiante del Instituto Tecnologico de Tijuana (ITT).
 - 😄 Cometo muchos errores pero cada error es un detale muy grande que debo aprender.

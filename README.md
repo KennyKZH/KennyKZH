@@ -8,7 +8,7 @@
 - 💬 Con mucho gusto contesto mensajes para cualquier duda.
 - ⚡ Algo fuerte de mi es que apoyo/ayudo a mis compañeros sin que me lo pidan o sabiendo que lo necesitan.
 
-                                                       Mi horario de este semestre
+Mi horario de este semestre
 | Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
 | 8:00  | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          |

@@ -11,9 +11,9 @@
 Mi horario de este semestre
 | Hora  | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-| 8:00  | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          | Metodos Numericos          |
-| 14:00 | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          | Lenguage Interfaz          |
-| 15:00 | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    |
-| 16:00 | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II |
-| 17:00 | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento | Conmutacion y Enrutamiento |
-| 18:00 | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           | Programacion Web           |
+| 14:00 | Inteligencia Artificial    | Dise y Evua de Interfaz U  | Inteligencia Artificial    | Dise y Evua de Interfaz U  |                            |
+| 15:00 | Inteligencia Artificial    | Dise y Evua de Interfaz U  | Inteligencia Artificial    | Dise y Evua de Interfaz U  | Dise y Evua de Interfaz U  |
+| 16:00 | Admin Redes                | Admin Redes                | Admin Redes                | Admin Redes                | Admin Redes                |
+| 17:00 | Sis Programables           | Sis Programables           | Sis Programables           | Sis Programables           | Sis Programables           |
+| 18:00 | L. y Automatas ll          | L. y Automatas ll          | L. y Automatas ll          | L. y Automatas ll          | L. y Automatas ll          |
+| 19:00 | T. Avanzado de Desarrollo S| T. Avanzado de Desarrollo S| T. Avanzado de Desarrollo S| T. Avanzado de Desarrollo S| T. Avanzado de Desarrollo S|
